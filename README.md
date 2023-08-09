@@ -22,8 +22,6 @@ Develop a one-page no-scroll marketing page using HTML, CSS, and JavaScript that
   
   · Feel free to use any image of your choice.
   
-  · Utilize proper HTML markup for images and include alt attributes with descriptive text.
-  
   · (Optional but highly recommended) Host the page in any tool/service that you would prefer.
 
 **Mockups for Small and Large Devices**
