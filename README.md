@@ -1,4 +1,4 @@
-# one-page-challenge
+# Navigation-Challenge
 
 **The Challenge**
 
