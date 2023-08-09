@@ -10,7 +10,7 @@ Develop a one-page no-scroll marketing page using HTML, CSS, and JavaScript that
   
   · The page must contain a title bar, a navigation bar, and a hero banner. The page should not be scrollable.
   
-  · The navigation bar should have at least four links. Add as many as you see fit to show the features of your solution. These links should not redirect to any page.
+  · The navigation bar should have at least four links. Add as many as you see fit to show the features of your solution. These links should not redirect to any page. Each link should have an icon to the left.
   
   · The “Home” link should be highlighted initially.
   
@@ -20,7 +20,7 @@ Develop a one-page no-scroll marketing page using HTML, CSS, and JavaScript that
   
   · The navigation bar should stop sliding to the right if the last link is already fully shown. Conversely, the navigation bar should stop sliding to the right if the “Home” link is back to its initial position.
   
-  · Feel free to use any image of your choice.
+  · Feel free to use icons and images of your choice.
   
   · (Optional but highly recommended) Host the page in any tool/service that you would prefer.
 
