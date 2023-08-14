@@ -16,9 +16,9 @@ Develop a one-page no-scroll marketing page using HTML, CSS, and JavaScript that
   
   · When another link is clicked, for example, “Promotions”, the Hero Banner should change into an image that describes “Promotions”. The same goes for the rest of the links. The highlighted link should change to the clicked link.
   
-  · In smaller devices, the navigation bar (or links) should slide sideways to access the links not initially displayed within the viewport. See the mockup below that shows “Sportsbook” not fully shown at the page’s initial state.
+  · In smaller devices, arrange all links within the navigation bar in a single horizontal row. Due to limited viewport space, display the initially visible portion of the navigation bar. Allow users to swipe or slide the navigation sideways to reveal the remaining links.
   
-  · The navigation bar should stop sliding to the right if the last link is already fully shown. Conversely, the navigation bar should stop sliding to the right if the “Home” link is back to its initial position.
+  · Allow the user to swipe/drag the navigation to the left until the last link is fully shown. Conversely, allow the user to swipe/drag the navigation back to the right until the “Home” link returns to its original position.
   
   · Feel free to use icons and images of your choice.
   
@@ -26,5 +26,6 @@ Develop a one-page no-scroll marketing page using HTML, CSS, and JavaScript that
 
 **Mockups for Small and Large Devices**
 
-<img width="237" alt="image" src="https://github.com/johnpaulsolo/one-page-challenge/assets/22829633/419a26bd-6f65-46b1-841a-416e52e32336">
-<img width="468" alt="image" src="https://github.com/johnpaulsolo/one-page-challenge/assets/22829633/4c6e0973-c021-4c89-b182-948897d1d877">
+![Uploading MicrosoftTeams-image (23).png…]()
+![Uploading MicrosoftTeams-image (24).png…]()
+![MicrosoftTeams-image (22)](https://github.com/johnpaulsolo/one-page-challenge/assets/22829633/7f842dbc-3705-487b-bf50-be552145ab36)
