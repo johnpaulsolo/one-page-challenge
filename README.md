@@ -26,6 +26,6 @@ Develop a one-page no-scroll marketing page using HTML, CSS, and JavaScript that
 
 **Mockups for Small and Large Devices**
 
-![MicrosoftTeams-image (24)](https://github.com/johnpaulsolo/one-page-challenge/assets/22829633/ac517bec-11d2-492b-a6ce-f0d4808de8f1)
 ![MicrosoftTeams-image (23)](https://github.com/johnpaulsolo/one-page-challenge/assets/22829633/b54c0f02-5d92-4c3e-b091-6d4d1ca26253)
+![MicrosoftTeams-image (24)](https://github.com/johnpaulsolo/one-page-challenge/assets/22829633/ac517bec-11d2-492b-a6ce-f0d4808de8f1)
 ![MicrosoftTeams-image (22)](https://github.com/johnpaulsolo/one-page-challenge/assets/22829633/7f842dbc-3705-487b-bf50-be552145ab36)
