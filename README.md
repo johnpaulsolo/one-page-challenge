@@ -1,5 +1,7 @@
 # Navigation-Challenge
 
+The purpose of this examination is for us to assess your technical skills. So give your best shot!:)
+
 **The Challenge**
 
 Develop a one-page no-scroll marketing page using HTML, CSS, and JavaScript that promotes a product, service, or concept of your choice.
