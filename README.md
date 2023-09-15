@@ -8,7 +8,7 @@ Develop a one-page no-scroll marketing page using HTML, CSS, and JavaScript that
 
 **Specifications**
   
-  ·  Build a responsive page without the use of any framework.
+  ·  Build a responsive page without the use of any CSS & Javascript framework/libraries.
   
   · The page must contain a title bar, a navigation bar, and a hero banner. The page should not be scrollable.
   
